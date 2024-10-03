@@ -2,5 +2,5 @@
 set -e
 
 cd ..
-docker build -t reo7sp/tgbot-cpp -f Dockerfile .
-docker push reo7sp/tgbot-cpp
+docker build -t beastdope/tgbot-cpp -f Dockerfile .
+docker push beastdope/tgbot-cpp
