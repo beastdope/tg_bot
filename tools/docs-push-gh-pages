@@ -13,4 +13,4 @@ rm -r tools/* || true
 git add -A
 git commit -m "Updated docs $(date)"
 git push origin gh-pages
-git checkout master
+git checkout main
